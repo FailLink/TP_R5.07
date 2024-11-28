@@ -1,0 +1,6 @@
+projectKey=TP2_Bis
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=TP2_Bis
+ceTaskId=5b2ec203-47c2-4646-99de-31b1cb7eb791
+ceTaskUrl=http://localhost:9000/api/ce/task?id=5b2ec203-47c2-4646-99de-31b1cb7eb791
