@@ -1,4 +1,4 @@
-package Test;
+package test;
 
 import org.example.Etudiant;
 import org.example.Evaluation;
